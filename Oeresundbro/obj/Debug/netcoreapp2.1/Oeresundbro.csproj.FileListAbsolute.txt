@@ -1,0 +1,12 @@
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\bin\Debug\netcoreapp2.1\Oeresundbro.deps.json
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\bin\Debug\netcoreapp2.1\Oeresundbro.dll
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\bin\Debug\netcoreapp2.1\Oeresundbro.pdb
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\obj\Debug\netcoreapp2.1\Oeresundbro.csprojAssemblyReference.cache
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\obj\Debug\netcoreapp2.1\Oeresundbro.csproj.CoreCompileInputs.cache
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\obj\Debug\netcoreapp2.1\Oeresundbro.AssemblyInfoInputs.cache
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\obj\Debug\netcoreapp2.1\Oeresundbro.AssemblyInfo.cs
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\obj\Debug\netcoreapp2.1\Oeresundbro.csproj.CopyComplete
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\obj\Debug\netcoreapp2.1\Oeresundbro.dll
+C:\source\Oersundbro\oresundbilletlibrary-michaelSteinmejer\Oeresundbro\obj\Debug\netcoreapp2.1\Oeresundbro.pdb
